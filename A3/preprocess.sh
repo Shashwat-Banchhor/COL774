@@ -1,0 +1,1 @@
+python one_hot_encoder.py $1 $2 $3 $4
